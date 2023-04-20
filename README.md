@@ -21,5 +21,5 @@ I'm a passionate full-stack developer with a love for all things tech. When I'm 
 - LinkedIn: [https://in.linkedin.com/in/vardamanpk]
 
 
-- 🔭 I’m currently working on preprocessing module to fine-tune AI models
-- 👯 I’m looking to collaborate on AI and Blockchain related projects
+- 🔭 I’m currently working on preprocessing module that can be used to fine-tune/train AI models
+- 🎭 I’m looking to collaborate on AI and Blockchain related projects
